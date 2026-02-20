@@ -23,5 +23,28 @@
 
  #links{
 padding-right: 200px;
+ }
 
+ #noticias{
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    display: flex;
+ }
+
+ .noticia{
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    background-color: #77170d;
+    border: 5px solid #000000d8;
+    border-radius: 50px;
+    max-width: 350px;
+ }
+
+ .img_noticia{
+    width: 350px;
+    height: 300px;
+    border: 0px;
+    border-radius: 30px;
  }
