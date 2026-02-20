@@ -1,0 +1,27 @@
+ body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #d43a29;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+#icon{
+    width:54px ;
+    height: 62px;
+    padding-left: 200px;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color: #000000d8;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ #links{
+padding-right: 200px;
+
+ }
