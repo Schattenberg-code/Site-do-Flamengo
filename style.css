@@ -33,18 +33,21 @@ padding-right: 200px;
  }
 
  .noticia{
-    padding: 50px;
+    padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aliceblue;
     background-color: #77170d;
     border: 5px solid #000000d8;
-    border-radius: 50px;
-    max-width: 350px;
+    border-radius: 15px;
+    max-width: 450px;
+    text-align: justify;
+    margin: auto;
+    font-size: 15px;
  }
 
  .img_noticia{
-    width: 350px;
-    height: 300px;
+    width: 450px;
+    height: 400px;
     border: 0px;
-    border-radius: 30px;
+    border-radius: 15px;
  }
