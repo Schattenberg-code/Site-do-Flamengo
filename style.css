@@ -60,10 +60,12 @@ padding-right: 200px;
    padding: 60px;
    color: white;
    border: 30px;
+   align-items: center;
 }
 
 #texto_escalacao{
    text-align: center;
+   align-items: center;
 }
 
 
@@ -78,7 +80,8 @@ padding-right: 200px;
 }
 
 #escala{
-   display: flex;
+    display: flex;
+    flex-wrap: wrap;
    justify-content: space-between;
    align-items: center;
    font-size: 30px;
