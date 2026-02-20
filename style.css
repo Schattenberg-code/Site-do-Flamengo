@@ -56,21 +56,31 @@ padding-right: 200px;
  }
 
 #escalacao{
-text-align: center;
-background-color: #77170d;
-padding: 60px;
+   background-color: #77170d;
+   padding: 60px;
+   color: white;
+   border: 30px;
 }
 
-.funcao{
-
-
-align-items: center;
-
+#texto_escalacao{
+   text-align: center;
 }
+
 
 .jogador{
-width: 40px;
-height: 40px;
+   padding: 50px;
+   text-align: center;
 }
 
+.img_jogo{
+   width: 100px;
+   height: 100px;
+}
+
+#escala{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 30px;
+}
 
