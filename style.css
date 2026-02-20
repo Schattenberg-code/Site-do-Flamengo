@@ -30,9 +30,11 @@ padding-right: 200px;
     justify-content: space-around;
     padding: 6px;
     display: flex;
+    flex-wrap: wrap;
  }
 
  .noticia{
+    height: 1000;
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aliceblue;
@@ -41,6 +43,7 @@ padding-right: 200px;
     border-radius: 15px;
     max-width: 450px;
     text-align: justify;
+    max-height: 550px;
     margin: auto;
     font-size: 15px;
  }
@@ -51,3 +54,23 @@ padding-right: 200px;
     border: 0px;
     border-radius: 15px;
  }
+
+#escalacao{
+text-align: center;
+background-color: #77170d;
+padding: 60px;
+}
+
+.funcao{
+
+
+align-items: center;
+
+}
+
+.jogador{
+width: 40px;
+height: 40px;
+}
+
+
